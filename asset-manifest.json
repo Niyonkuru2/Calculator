@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/http//Niyonkuru2.github.io/Calculator/static/css/main.18078539.css",
+    "main.js": "/http//Niyonkuru2.github.io/Calculator/static/js/main.fefb4f0a.js",
+    "static/js/787.5f81c7f8.chunk.js": "/http//Niyonkuru2.github.io/Calculator/static/js/787.5f81c7f8.chunk.js",
+    "index.html": "/http//Niyonkuru2.github.io/Calculator/index.html",
+    "main.18078539.css.map": "/http//Niyonkuru2.github.io/Calculator/static/css/main.18078539.css.map",
+    "main.fefb4f0a.js.map": "/http//Niyonkuru2.github.io/Calculator/static/js/main.fefb4f0a.js.map",
+    "787.5f81c7f8.chunk.js.map": "/http//Niyonkuru2.github.io/Calculator/static/js/787.5f81c7f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18078539.css",
+    "static/js/main.fefb4f0a.js"
+  ]
+}
